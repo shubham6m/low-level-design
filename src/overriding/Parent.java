@@ -6,6 +6,6 @@ this is called overriding
 */
 public class Parent {
     void print(){
-        System.out.println("Parent class method");
+        System.out.println("function inside parent class");
     }
 }
